@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name ALPS_SPUN191400)(type KiCad)(uri ${KIPRJMOD}/ALPS_SPUN191400.pretty)(options "")(descr ""))
+  (lib (name RCA_KobiCon_161-4220-E)(type KiCad)(uri ${KIPRJMOD}/RCA_KobiCon_161-4220-E.pretty)(options "")(descr ""))
+  (lib (name MountingHole_4.3mm_M4_ReducedSize)(type KiCad)(uri ${KIPRJMOD}/MountingHole_4.3mm_M4_ReducedSize.pretty)(options "")(descr ""))
+)
