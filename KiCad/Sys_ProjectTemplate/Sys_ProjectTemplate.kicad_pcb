@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 6)
+    (drawings 9)
     (tracks 0)
     (zones 0)
     (modules 7)
@@ -10,6 +10,17 @@
   )
 
   (page A4)
+  (title_block
+    (title "Sys Project Template")
+    (date 2020-05-05)
+    (rev 0.0)
+    (company "Philipp Schilk")
+    (comment 1 "No Affiliation with Schiit Audio Products")
+    (comment 2 https://www.schiit.com/products/sys)
+    (comment 3 "For Documentation See: https://github.com/TheSchilk/SYS_ProjectTemplate")
+    (comment 4 "Project Template for a custom PCB fitting the SYS Passive Preamp enclosure.")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
@@ -404,6 +415,15 @@
       (net 26 "Net-(SW1-Pad6)"))
   )
 
+  (gr_text "RCA In 1" (at 180.5 57.75) (layer F.Fab) (tstamp 5EB1384F)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (gr_text "RCA In 2" (at 148.75 57.75) (layer F.Fab) (tstamp 5EB1383E)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (gr_text "RCA Output" (at 97.5 59) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (dimension 84 (width 0.15) (layer Dwgs.User)
     (gr_text "84.000 mm" (at 200.45 105.5 270) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))

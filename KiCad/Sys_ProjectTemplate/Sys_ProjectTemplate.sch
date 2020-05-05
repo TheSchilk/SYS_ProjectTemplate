@@ -5,13 +5,13 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Sys Project Template"
-Date ""
-Rev ""
-Comp ""
-Comment1 "https://www.schiit.com/products/sys"
-Comment2 ""
-Comment3 ""
-Comment4 ""
+Date "2020-05-05"
+Rev "0.0"
+Comp "Philipp Schilk"
+Comment1 "No Affiliation with Schiit Audio Products."
+Comment2 "https://www.schiit.com/products/sys"
+Comment3 "For Documentation See: https://github.com/TheSchilk/SYS_ProjectTemplate"
+Comment4 "Project Template for a custom PCB fitting the SYS Passive Preamp"
 $EndDescr
 $Comp
 L RCA_Stereo:RCA_Stereo J1
