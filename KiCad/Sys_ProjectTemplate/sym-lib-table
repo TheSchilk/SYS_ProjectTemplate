@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name RCA_Stereo)(type Legacy)(uri ${KIPRJMOD}/RCA_Stereo.lib)(options "")(descr ""))
+  (lib (name Sys_ProjectTemplate-rescue)(type Legacy)(uri ${KIPRJMOD}/Sys_ProjectTemplate-rescue.lib)(options "")(descr ""))
 )
